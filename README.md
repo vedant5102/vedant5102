@@ -6,12 +6,10 @@
 
 
 - 🌱 I’m currently learning **DSA and IOS Development**
-- 🌐 Exploring the realms of software development and algorithms
-- 💡 Turning caffeine into code
-- 🔍 Seeking opportunities to learn and collaborate
-- 📚 Constantly expanding my programming knowledge
-- 🔗 Let's connect and build amazing things together!
-- 📫 Reach me at: vedantkatre21@gmail.com
+- 💡 Turning ideas into code | Solving problems and algorithms at a time
+- 📚 Always learning, always growing
+- 🔗 Let's collaborate and innovate! 
+- 📫 Connect with me: vedantkatre21@gmail.com
 
 
 <h3 align="left">Languages and Tools:</h3>
